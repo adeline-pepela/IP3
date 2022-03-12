@@ -39,6 +39,7 @@ mail chimp API does not function properly.
 Contact Information
 If you have any question or contributions, please email me at [adelinemakokha@gmail.com]
 
+
 License
 MIT License:
 Copyright (c) 2022 Adeline Makokha
